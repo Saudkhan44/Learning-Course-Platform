@@ -87,3 +87,5 @@ Ensure your database includes tables like:
  Pull requests are welcome. For major changes, open an issue first to discuss your proposal.
  License
  This project is open-source under the MIT License.
+
+ All code available in main.zip file
